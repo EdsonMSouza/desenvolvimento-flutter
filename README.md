@@ -1,4 +1,4 @@
-**Disciplina:** Computação Móvel e Desenvolvimento de Aplicativos móveis
+**Disciplina:** Computação Móvel e Desenvolvimento de Aplicativos Móveis
 
 **Professor:** Edson Melo de Souza (souzaem@uni9.pro.br)
 
