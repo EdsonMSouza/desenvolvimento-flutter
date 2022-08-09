@@ -78,33 +78,6 @@ flutter doctor --android-licenses
 
 + Aceitar as licenças
 
-
-## Ementa básica
-
-O objetivo dessa disciplina é aprendermos a desenvolver aplicativos móveis, ou seja _mobile_, usando uma única base de código que, neste caso, é o Dart com Flutter. Esse sistema de desenvovimento é denominado como __Desenvolvimento Híbrido__.
-
-Desenvolveremos Apps simples para aprendermos a tecnoloiga de desenvolvimento móvel, utilizando arquitetura BaaS (Backend as a Service) - uso de APIs, criação de rotas, MobX, Animações vetoriais com Rive, etc.
-
-
-## Critérios de avaliação
-
-Durante o semestre o professor fornecerá de 4 a 6 atividades de múltipla escolha, via _Google Forms_ através do Google Classroom ou através de algum link indicado. As atividades possuem um prazo maior ou igual a 14 dias.
-
-A nota do professor é calcula simplesmente pela média das atividades e eventuais pontuações extras.
-
-Este professor não utiliza nenhuma prova durante o semestre, ou seja, apenas o resultado das atividades __offline__.
-
-A média final da disciplina é calculada considerando-se a **Avaliação Integrada** a ser marcada pela coordenação. Normalmente a coordenação utiliza 40% da avaliação integrada + 60% da média do professor para se calcular a média final de cada disciplina, ou seja:
-
-```
-MÉDIA FINAL = (0,4 * AVALIAÇÃO INTEGRADA) + (0,6 * MED. DO PROF)
-```
-
-Este professor __não considera__ a presença como critério de avaliação.
-
-*****
-<br> 
-
 ## Bibliografia básica da disciplina
 
  - Alessandria, S., Kayfitz B., **[Flutter Cookbook](https://learning.oreilly.com/library/view/flutter-cookbook/9781838823382/)**, Ed. Pact Publishing, 2021
